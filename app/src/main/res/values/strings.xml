@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Quiz</string>
+    <string name="title">10問クイズ</string>
+    <string name="btn_start">スタート</string>
 </resources>
