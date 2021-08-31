@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         binding.startButton.setOnClickListener {
-            val intent = Intent(this, SubActivity::class.java)
+            val intent = Intent(this, Quiz1Activity::class.java)
             startActivity(intent)
         }
     }

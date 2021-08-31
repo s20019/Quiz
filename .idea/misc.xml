@@ -4,7 +4,27 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.346875" />
+        <entry key="app/src/main/res/layout/activity_quiz1.xml" value="0.346875" />
+        <entry key="app/src/main/res/layout/activity_quiz10.xml" value="0.346875" />
+        <entry key="app/src/main/res/layout/activity_quiz2.xml" value="0.346875" />
+        <entry key="app/src/main/res/layout/activity_quiz3.xml" value="0.346875" />
+        <entry key="app/src/main/res/layout/activity_quiz4.xml" value="0.346875" />
+        <entry key="app/src/main/res/layout/activity_quiz5.xml" value="0.346875" />
+        <entry key="app/src/main/res/layout/activity_quiz6.xml" value="0.346875" />
+        <entry key="app/src/main/res/layout/activity_quiz7.xml" value="0.346875" />
+        <entry key="app/src/main/res/layout/activity_quiz8.xml" value="0.346875" />
+        <entry key="app/src/main/res/layout/activity_quiz9.xml" value="0.346875" />
         <entry key="app/src/main/res/layout/activity_sub.xml" value="0.346875" />
+        <entry key="app/src/main/res/layout/fragment_quiz1.xml" value="0.346875" />
+        <entry key="app/src/main/res/layout/fragment_quiz10.xml" value="0.346875" />
+        <entry key="app/src/main/res/layout/fragment_quiz2.xml" value="0.346875" />
+        <entry key="app/src/main/res/layout/fragment_quiz3.xml" value="0.346875" />
+        <entry key="app/src/main/res/layout/fragment_quiz4.xml" value="0.32916666666666666" />
+        <entry key="app/src/main/res/layout/fragment_quiz5.xml" value="0.32916666666666666" />
+        <entry key="app/src/main/res/layout/fragment_quiz6.xml" value="0.346875" />
+        <entry key="app/src/main/res/layout/fragment_quiz7.xml" value="0.346875" />
+        <entry key="app/src/main/res/layout/fragment_quiz8.xml" value="0.32916666666666666" />
+        <entry key="app/src/main/res/layout/fragment_quiz9.xml" value="0.32916666666666666" />
       </map>
     </option>
   </component>
